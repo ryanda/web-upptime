@@ -1,8 +1,6 @@
-# Change these first
 owner: ryanda
 repo: web-upptime
 
-# Add your sites here
 sites:
   - name: Jalan Damai
     url: http://jalandamai.org
@@ -12,7 +10,6 @@ sites:
     url: http://dutadamai.id
 
 status-website:
-  Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /web-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WebUpptime
