@@ -4,8 +4,8 @@
     "url": "http://jalandamai.org",
     "slug": "jalan-damai",
     "status": "up",
-    "uptime": "99.53%",
-    "time": 8003
+    "uptime": "99.64%",
+    "time": 7975
   },
   {
     "name": "Damailah Indonesiaku",
@@ -13,7 +13,7 @@
     "slug": "damailah-indonesiaku",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1221
+    "time": 1249
   },
   {
     "name": "Duta Damai",
@@ -21,6 +21,6 @@
     "slug": "duta-damai",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2242
+    "time": 2198
   }
 ]
