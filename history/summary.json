@@ -2,38 +2,48 @@
   {
     "name": "Jalan Damai",
     "url": "http://jalandamai.org",
+    "icon": "https://favicons.githubusercontent.com/jalandamai.org",
     "slug": "jalan-damai",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 11124,
-    "timeDay": 8246,
-    "timeWeek": 11995,
-    "timeMonth": 11124,
-    "timeYear": 11124
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 11000,
+    "timeDay": 8387,
+    "timeWeek": 11932,
+    "timeMonth": 11000,
+    "timeYear": 11000,
+    "dailyMinutesDown": {
+      "2020-12-01": 21,
+      "2020-11-24": 18
+    }
   },
   {
     "name": "Damailah Indonesiaku",
     "url": "https://damailahindonesiaku.net",
+    "icon": "https://favicons.githubusercontent.com/damailahindonesiaku.net",
     "slug": "damailah-indonesiaku",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 1197,
-    "timeDay": 929,
-    "timeWeek": 1189,
-    "timeMonth": 1197,
-    "timeYear": 1197
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1188,
+    "timeDay": 1039,
+    "timeWeek": 1126,
+    "timeMonth": 1188,
+    "timeYear": 1188,
+    "dailyMinutesDown": {
+      "2020-11-29": 51
+    }
   },
   {
     "name": "Duta Damai",
     "url": "http://dutadamai.id",
+    "icon": "https://favicons.githubusercontent.com/dutadamai.id",
     "slug": "duta-damai",
     "status": "up",
     "uptime": "99.90%",
@@ -41,10 +51,13 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 2762,
-    "timeDay": 2428,
-    "timeWeek": 3186,
-    "timeMonth": 2762,
-    "timeYear": 2762
+    "time": 2751,
+    "timeDay": 2568,
+    "timeWeek": 2696,
+    "timeMonth": 2751,
+    "timeYear": 2751,
+    "dailyMinutesDown": {
+      "2020-12-01": 20
+    }
   }
 ]
